@@ -28,9 +28,9 @@ ensure_package("requests", "requests")
 APP_VERSION = "1.0.0"
 
 # RAW GITHUB LINKS
-VERSION_URL = "https://raw.githubusercontent.com/DITNAVN/AutomationBot/main/version.txt"
+VERSION_URL = "https://github.com/snipDK/AutomationBot/edit/main/version.txt"
 
-UPDATE_URL = "https://raw.githubusercontent.com/DITNAVN/AutomationBot/main/main.py"
+UPDATE_URL = "https://github.com/snipDK/AutomationBot/blob/main/main.py"
 
 # =========================================================
 # UPDATE SYSTEM
